@@ -1,3 +1,13 @@
+/*
+	#################################################
+	#	Autora: Letícia Machado                     #
+	#	Data: 12/08/2016                            #
+	#	Disciplina: Laboratório de Algoritmos II    #
+	#	Professor: Jonas Tadeu                      #
+	#	Antonio Meneghetti Faculdade                #
+	#################################################	
+
+*/
 #include <stdio.h>
 
 int main(void)
